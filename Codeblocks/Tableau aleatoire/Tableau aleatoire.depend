@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509527552 source:c:\users\adelinetgirl\documents\blanche-neige\codeblocks\tableau aleatoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509031740 source:c:\users\adai07\documents\blanche-neige\codeblocks\pile ou face\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

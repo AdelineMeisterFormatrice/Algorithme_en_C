@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509371951 source:c:\users\adai07\documents\blanche-neige\codeblocks\lancer de dés\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

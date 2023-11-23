@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509144894 source:c:\users\adelinetgirl\documents\blanche-neige\codeblocks\99-bottles-of-beer.net\main.c
+	<stdio.h>
+	<stdlib.h>
+
